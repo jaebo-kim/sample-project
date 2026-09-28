@@ -1,0 +1,10 @@
+{
+  "name": "epd-standup-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "benchmark:payment": "node scripts/benchmark-payment.js"
+  }
+}
